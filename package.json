@@ -1,0 +1,25 @@
+{
+	"name": "laith-harb-jwt-util",
+	"version": "1.0.0",
+	"description": "Laith Harb JWT Tutorial",
+	"main": "index.js",
+	"scripts": {
+		"start": "nodemon index"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Super-Rogatory/jwt-auth-practice.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Super-Rogatory/jwt-auth-practice/issues"
+	},
+	"homepage": "https://github.com/Super-Rogatory/jwt-auth-practice#readme",
+	"dependencies": {
+		"bcrypt": "^5.0.1",
+		"express": "^4.17.1",
+		"express-validator": "^6.13.0"
+	}
+}
